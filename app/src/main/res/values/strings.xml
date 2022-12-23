@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="kg">Kg</string>
+    <string name="kg1">Kg</string>
+    <string name="calculate1">Calculate</string>
+    <string name="_24_84">24.84</string>
+    <string name="healthy_line">You are Healthy!</string>
+    <string name="range_line">Nornal value is 18.5 to 24.9</string>
+    <string name="cm">Cm</string>
+    <string name="_0">0</string>
+    <string name="_01">0</string>
+    <string name="height1">Height</string>
+</resources>
